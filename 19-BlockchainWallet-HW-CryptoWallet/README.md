@@ -119,7 +119,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ## Screenshot of dtreamlit application running
 
 Details to hire Lane:
-![Lane Image and details]([./Images](https://github.com/mkstar-2000/python-homework-public/blob/main/19-BlockchainWallet-HW-CryptoWallet/Imagesage.png/19-cryptowallet_Lane)
+![Lane Image and details]((https://github.com/mkstar-2000/python-homework-public/blob/main/19-BlockchainWallet-HW-CryptoWallet/Imagesage.png/19-cryptowallet_Lane)
 
 Details to hire Ash:
 ![Ash Image and details](./Images/19-cryptowallet_Ash)
