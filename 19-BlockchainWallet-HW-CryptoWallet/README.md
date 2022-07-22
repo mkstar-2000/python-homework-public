@@ -119,30 +119,30 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ## Screenshot of dtreamlit application running
 
 Details to hire Lane:
-![Lane Image and details](Images/19-cryptowallet_Lane)
+![Lane Image and details](./Images/19-cryptowallet_Lane)
 
 Details to hire Ash:
-![Ash Image and details](Images/19-cryptowallet_Ash)
+![Ash Image and details](./Images/19-cryptowallet_Ash)
 
 Details to hire Jo:
-![Jo Image and details](Images/19-cryptowallet_Jo)
+![Jo Image and details](./Images/19-cryptowallet_Jo)
 
 Details to hire Kendall:
-![kendall Image and details](Images/19-cryptowallet_Kendall)
+![kendall Image and details](./Images/19-cryptowallet_Kendall)
 
 ## Screenshot of details and calculation when Hiring Ash:
 
-![Lane Image and details](Images/19-cryptowallet_Ash_5_hours_selected-before_tx)
-![Lane Image and details](Images/19-cryptowallet_Ash_5_hours_selected-after_tx)
+![Lane Image and details](./Images/19-cryptowallet_Ash_5_hours_selected-before_tx)
+![Lane Image and details](./Images/19-cryptowallet_Ash_5_hours_selected-after_tx)
 
 ## Screenshot from ganache wallet demonstration the balance change of transaction for hiring Ash:
-![Ganache before hiring](Images/19-cryptowallet_ganache_before_tx)
+![Ganache before hiring](./Images/19-cryptowallet_ganache_before_tx)
 
 Balance in Ganache after hiring Ash:
-![Ganache after hiring](Images/19-cryptowallet_ganache_after_tx)
+![Ganache after hiring](./Images/19-cryptowallet_ganache_after_tx)
 
 Ganache tx details screenshot
-![Ganache Transaction record](Images/19-cryptowallet_ganache_tx_record)
+![Ganache Transaction record](./Images/19-cryptowallet_ganache_tx_record)
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
