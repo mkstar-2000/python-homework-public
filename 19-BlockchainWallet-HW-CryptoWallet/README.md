@@ -116,6 +116,33 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
+## Screenshot of dtreamlit application running
+
+Details to hire Lane:
+![Lane Image and details](Images/19-cryptowallet_Lane.png)
+
+Details to hire Ash:
+![Ash Image and details](./Images/19-cryptowallet_Ash.png)
+
+Details to hire Jo:
+![Jo Image and details](./Images/19-cryptowallet_Jo.png)
+
+Details to hire Kendall:
+![kendall Image and details](./Images/19-cryptowallet_Kendall.png)
+
+## Screenshot of details and calculation when Hiring Ash:
+
+![Lane Image and details](./Images/19-cryptowallet_Ash_5_hours_selected-before_tx.png)
+![Lane Image and details](./Images/19-cryptowallet_Ash_5_hours_selected-after_tx.png)
+
+## Screenshot from ganache wallet demonstration the balance change of transaction for hiring Ash:
+![Ganache before hiring](./Images/19-cryptowallet_ganache_before_tx.png)
+
+Balance in Ganache after hiring Ash:
+![Ganache after hiring](./Images/19-cryptowallet_ganache_after_tx.png)
+
+Ganache tx details screenshot
+![Ganache Transaction record](./Images/19-cryptowallet_ganache_tx_record.png)
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
