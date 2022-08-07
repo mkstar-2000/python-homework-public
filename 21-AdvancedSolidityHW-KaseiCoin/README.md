@@ -244,4 +244,13 @@ You can also record your interactions with the executed contract as a short vide
 
 ---
 
+## Screenshots
+![alt=""](Images/Step1_compiledKaseiCoinContract_evaluation_evidence.png)
+
+![alt=""](Images/Step2_compiledKaseiCoinDeployer_Crowdsale_evaluation_evidence.png)
+
+![alt=""](Images/21-AdvancedSolidityHW-KaseiCoin\Images\ganacheTransasction_Buy_KAI.png)
+
+![alt=""](Images/21-AdvancedSolidityHW-KaseiCoin\Images\results_Metamask_KAI.PNG)
+
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
